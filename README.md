@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋, I'm Muhammad Zul Fikar
 - 🎓 I’m currently studying at UPNVJ
 - 💻 I’m currently learning C++ and Java
 - ⚡ Fun fact: sluggard
