@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Muhammad Zul Fikar
 - 🎓 I’m currently studying at UPNVJ
-- 💻 I’m currently learning C++ and Java
+- 🎓 I’m majoring in Information System
+- 💻 I’m interested in being a software engineer
 - ⚡ Fun fact: sluggard
 
 ![Fikar's GitHub stats](https://github-readme-stats.vercel.app/api?username=mzfikar&show_icons=true&theme=radical)
